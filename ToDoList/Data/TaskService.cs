@@ -30,6 +30,12 @@ namespace ToDoList.Data
             }
         }
 
+        public void AddTask(Task newTask)
+        {
+            newTask.Id = Tasks.Max(x => x.Id) + 1;
+            Tasks.Add(newTask);
+        }
+
         public List<Task> GetTasks()
         {
             return Tasks;
