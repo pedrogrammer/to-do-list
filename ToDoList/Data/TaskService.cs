@@ -29,5 +29,10 @@ namespace ToDoList.Data
                 });
             }
         }
+
+        public List<Task> GetTasks()
+        {
+            return Tasks;
+        }
 	}
 }
