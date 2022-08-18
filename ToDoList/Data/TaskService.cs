@@ -40,5 +40,14 @@ namespace ToDoList.Data
         {
             return Tasks;
         }
+
+        public void DeleteTask(int id)
+        {
+            Task task = Tasks.Where(x => x.Id === id).FirstOrDefault();
+            if (task != null)
+            {
+                Tasks.Remove(task);
+            }
+        }
 	}
 }
