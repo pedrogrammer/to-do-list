@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "StHYq9yW08oCTaBGoSKfTiwRDu88NrAScekA0OqK0p4=",
+  "Hash": "oyaggGkMhEhS4wruKY/W0dMbg20Jh5aUCM6aslQsCW0=",
   "Source": "ToDoList",
   "BasePath": "_content/ToDoList",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ToDoList\\wwwroot",
       "Source": "ToDoList",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ToDoList.styles.css",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ToDoList.styles.css",
       "SourceId": "ToDoList",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "ToDoList.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ToDoList.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ToDoList.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css",
       "SourceId": "ToDoList",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "ToDoList.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToDoList.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\css\\site.css",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\favicon.ico",
       "SourceId": "ToDoList",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\wwwroot\\",
       "BasePath": "_content/ToDoList",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

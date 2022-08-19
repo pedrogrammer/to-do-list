@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectPath": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\Pedrogrammer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedrogrammer\\source\\repos\\ToDoList\\ToDoList\\obj\\",
+      "outputPath": "C:\\Users\\Pedrogrammer\\Documents\\GitHub\\to-do-list\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedrogrammer\\AppData\\Roaming\\NuGet\\NuGet.Config",

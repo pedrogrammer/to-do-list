@@ -1,4 +1,5 @@
 ﻿using ToDoList.Model;
+using Task = ToDoList.Model.Task;
 
 namespace ToDoList.Data
 {
@@ -12,7 +13,7 @@ namespace ToDoList.Data
 			{
 				Tasks = new List<Task>();
 
-                Tasks.add(new Task()
+                Tasks.Add(new Task()
                 {
                     Id = 1,
                     Title = "Wake up",
@@ -20,7 +21,7 @@ namespace ToDoList.Data
                     IsDone = true,
                 });
 
-                Tasks.add(new Task()
+                Tasks.Add(new Task()
                 {
                     Id = 2,
                     Title = "Brush teeth",
@@ -43,7 +44,7 @@ namespace ToDoList.Data
 
         public void DeleteTask(int id)
         {
-            Task task = Tasks.Where(x => x.Id === id).FirstOrDefault();
+            var task = Tasks.Where(x => x.Id == id).FirstOrDefault();
             if (task != null)
             {
                 Tasks.Remove(task);
